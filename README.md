@@ -1,122 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C7B7&height=220&section=header&text=Vikas%20Srivastav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20Full-Stack%20%7C%20Problem%20Solver&descAlignY=55&descSize=20" width="100%"/>
-
-<a href="https://linkedin.com/in/vikas-srivastav"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vsrivastava873@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://x.com/vsrivastav873"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-<a href="https://github.com/vikassourc"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/>
+# 💫 Hi 👋, I'm Vikas Srivastav
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Bhopal+(9.01+CGPA);AWS+%2B+Cloud+Computing+Enthusiast;Full-Stack+%2F+Generative+AI+Builder;Always+Shipping+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+VIT+Bhopal;AWS+%2B+Cloud+Computing+Enthusiast;Full-Stack+%2F+Generative+AI+Builder;CGPA%3A+9.01+%2F+10.0" alt="Typing SVG" />
 </a>
 
 </div>
 
-<br/>
+**A passionate Computer Science Student || AWS & Cloud Enthusiast || Full-Stack Developer from India**
 
-## 🧠 About Me
+Email Me 👉 ✉️ **vsrivastava873@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-```javascript
-const vikas = {
-  role: "Computer Science Student",
-  university: "VIT Bhopal (2023 – Expected 2027)",
-  cgpa: "9.01 / 10.0",
-  languages: ["C++", "Java", "JavaScript", "Python", "SQL"],
-  currentFocus: ["AWS", "Full-Stack Development", "Generative AI"],
-  currentlyBuilding: "AI-powered tools & scalable web apps",
-  funFact: "Turns 'writer's block' into a full-stack AI product 🚀"
-};
-```
+| | |
+|---|---|
+| 🔭 **Currently working on** | EmoCare is an AI-powered emotional wellness platform and companion. |
+| 🌱 **Currently learning** | AWS, Cloud Computing & Full-Stack Development |
+| 👯 **Looking to collaborate on** | Full-stack, cloud, or AI-powered projects |
+| 🤔 **Looking for help with** | Cloud architecture & scaling applications |
+| 💬 **Ask me about** | C++, Java, SQL, AWS, Full-Stack Web Development |
+| 📫 **How to reach me** | vsrivastava873@gmail.com |
+| 😄 **Pronouns** | He/Him |
+| ⚡ **Fun fact** | I turn "writer's block" into a full-stack AI product 🚀 |
 
-- 🎓 B.Tech in Computer Science Engineering, VIT Bhopal — **CGPA 9.01/10.0**
-- ☁️ Building toward cloud-native, scalable applications with **AWS**
-- 🛠️ Comfortable across the stack: **C++ / Java** for logic, **Node.js / Express** for backend, **Tailwind** for UI
-- 🧩 Strong foundation in **Data Structures & Algorithms** and problem solving
-- 🤝 Open to collaborating on cloud, full-stack, or AI-driven projects
-- 📫 Reach me at **vsrivastava873@gmail.com**
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 [Starlight Weaver](https://ai-story-generator-1-43ea.onrender.com)
-Full-stack generative AI app that helps users beat writer's block by crafting unique, structured stories.
-
-- Dynamic story generation from custom parameters (setting, conflict, tone)
-- Random inspiration prompts
-- Full save / load / delete functionality
-- Powered by the **Gemini API**
-
-`Node.js` `Express.js` `Tailwind CSS` `Gemini API`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌦️ [Mausamate](https://mausamate.onrender.com)
-Full-stack weather application delivering real-time data and forecasts.
-
-- Live weather lookup by location
-- Clean, responsive UI
-- Built end-to-end as a full-stack project
-
-`Full-Stack Web Development`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📜 Certifications
-
-<table>
-<tr><td>☁️</td><td><b>AWS Technical Essentials</b></td><td>AWS Training & Certification</td><td>Sep 2025</td></tr>
-<tr><td>🔷</td><td><b>Microsoft Certified: Azure Data Fundamentals</b></td><td>Microsoft</td><td>Jun 2025</td></tr>
-<tr><td>🤖</td><td><b>Generative AI using IBM Watson X</b></td><td>IBM</td><td>Jun 2025</td></tr>
-<tr><td>📊</td><td><b>Machine Learning</b></td><td>NPTEL</td><td>May 2025</td></tr>
-<tr><td>🌐</td><td><b>Full Stack Web Development</b></td><td>TechBairn</td><td>Apr 2025</td></tr>
-</table>
-
-<br/>
-
-## 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,js,py,html,css,nodejs,express,tailwind,aws,azure,mysql,git,github,vscode&theme=dark" />
-</p>
-
-<br/>
-
-## 📊 GitHub Analytics
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikassrivastava741) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-srivastav-1a6368275) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vsrivastav873) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vsrivastava873@gmail.com) 
+<!-- Snake Game Repo View -->
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vikassourc&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassourc&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=vikassourc&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=vikassourc&theme=radical&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<br/>
 
-<div align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%"/>
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vikassourc&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vikassourc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vikassourc&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vikassourc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=vikassourc&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0F2027&height=100&section=footer" width="100%"/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vikassourc&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=vikassourc&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
