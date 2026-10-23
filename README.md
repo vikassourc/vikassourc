@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&multiline=false&random=false&width=720&lines=🚀+CS+Student+%40+VIT+Bhopal+%7C+CGPA+9.01%2F10;☁️+AWS+%26+Cloud+Computing+Enthusiast;🤖+Generative+AI+%26+Full-Stack+Builder;💡+Turning+Ideas+Into+AI-Powered+Products;⚡+I+turn+writer%27s+block+into+full-stack+apps!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&multiline=false&random=false&width=720&lines=🚀+CS+Student+%40+VIT+Bhopal+%7C+CGPA+9.03%2F10;☁️+AWS+%26+Cloud+Computing+Enthusiast;🤖+Generative+AI+%26+Full-Stack+Builder;💡+Turning+Ideas+Into+AI-Powered+Products;⚡+I+turn+writer%27s+block+into+full-stack+apps!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/github/followers/vikassourc?style=for-the-badge&color=00C7B7&labelColor=1a1a2e&label=FOLLOWERS" alt="followers" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/CGPA-9.01%2F10.0-brightgreen?style=for-the-badge&logo=graduation-cap&logoColor=white&color=00b894&labelColor=1a1a2e" alt="CGPA Badge" />
+<img src="https://img.shields.io/badge/CGPA-9.03%2F10.0-brightgreen?style=for-the-badge&logo=graduation-cap&logoColor=white&color=00b894&labelColor=1a1a2e" alt="CGPA Badge" />
 
 </div>
 
@@ -148,10 +148,12 @@ pronouns    : "He / Him"
 
 | Project | Description | Stack | Link |
 |:---:|:---:|:---:|:---:|
-| **🧠 EmoCare** | AI-powered emotional wellness platform & companion. Real-time emotional support, mood tracking & personalized AI-driven mental health guidance. | `React` `Node.js` `OpenAI` `AWS` | [View](#) |
-| **☁️ CloudArch Demo** | Multi-tier AWS cloud architecture with EC2, S3, Lambda & RDS. Auto-scaling, load-balanced, production-grade setup. | `AWS EC2` `S3` `Lambda` `RDS` | [View](#) |
-| **🤖 AI Content Studio** | Full-stack Generative AI web app for creating content, code, and creative assets using LLMs. | `Next.js` `FastAPI` `LangChain` `OpenAI` | [View](#) |
-| **📊 DataViz Platform** | Interactive data visualization dashboard with real-time analytics, custom charts, and data pipeline integration. | `React` `D3.js` `PostgreSQL` `Node.js` | [View](#) |
+| **🛡️ NetSentry-DPI** | High-performance multi-threaded Deep Packet Inspection (DPI) & network traffic analysis engine in C++17 with real-time TLS SNI extraction and flow filtering. | `C++17` `Multi-Threading` `Networking` `PCAP` | [View Repo](https://github.com/vikassourc/NetSentry-DPI) |
+| **🧠 EmoCare** | AI-powered emotional wellness platform & therapy companion providing real-time mental health support, emotional check-ins, and mood tracking. | `React` `Node.js` `OpenAI` `AWS` | [View Repo](https://github.com/vikassourc/EmoCare) |
+| **📄 AI Resume Parser** | Intelligent resume parsing and ATS analysis tool with automated skill extraction, candidate evaluation, and AI-driven matching. | `Python` `NLP` `Generative AI` `FastAPI` | [View Repo](https://github.com/vikassourc/ai-resume-parser) |
+| **📹 NeuralMeet** | Next-generation intelligent video conferencing application featuring real-time AI-assisted collaboration and seamless connectivity. | `WebRTC` `React` `Node.js` `Socket.io` | [View Repo](https://github.com/vikassourc/neuralmeet) |
+| **🏥 CareSync** | Comprehensive healthcare and patient management system optimizing hospital workflows, appointments, and doctor-patient synchronization. | `React` `Node.js` `Express` `Database` | [View Repo](https://github.com/vikassourc/healthcare-caresync) |
+| **✨ AI Story Generator** | Interactive creative storytelling application crafting rich narratives and branching plots using Large Language Models. | `Python` `LangChain` `OpenAI` `React` | [View Repo](https://github.com/vikassourc/ai-story-generator) |
 
 </div>
 
