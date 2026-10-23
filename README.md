@@ -40,7 +40,7 @@
 name        : "Vikas Srivastav"
 location    : "India 🇮🇳"
 university  : "VIT Bhopal University"
-cgpa        : "9.01 / 10.0 ⭐"
+cgpa        : "9.03 / 10.0 ⭐"
 role        : "CS Student | Cloud & AI Enthusiast"
 email       : "vsrivastava873@gmail.com"
 pronouns    : "He / Him"
